@@ -16,7 +16,7 @@ description: 引流打粉就找SCRM Champion，007TG（原007）唯一官方指�
 
 ## 简介
 
-SCRM Champion是一款聚合15大全球社交平台的一站式私域营销管理工具，通过多账号运营、智能翻译、客户画像和风控管理，助力企业高效突破跨境营销壁垒，实现客户全链路转化与安全增长。
+SCRM Champion是一款聚合13大全球社交平台的一站式私域营销管理工具，通过多账号运营、智能翻译、客户画像和风控管理，助力企业高效突破跨境营销壁垒，实现客户全链路转化与安全增长。
 
 常用功能： 多平台账号安全多开、引流计数结算、实时翻译、AI翻译等
 
@@ -26,7 +26,7 @@ SCRM Champion是一款聚合15大全球社交平台的一站式私域营销管�
 
 SCRM：    客户画像、客户标签、客户跟进记录、客户活跃度检测等
 
-支持15个平台使用： WhatsApp、Telegram、LINE、LINE Business、LINE WORKS、Zalo、Messenger、Instagram、Twitter、Google Voice、TextNow、Skype、Discord、SkyPoly、Meta Business Suite
+支持15个平台使用： WhatsApp、Telegram、LINE、LINE Business、LINE WORKS、Zalo、Messenger、Instagram、Twitter、Google Voice、Discord、SkyPoly、Meta Business Suite
 
 <figure><img src=".gitbook/assets/image (17).png" alt="桌面端登录窗口，支持激活码、子账号登录"><figcaption></figcaption></figure>
 
