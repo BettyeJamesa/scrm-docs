@@ -26,7 +26,7 @@ SCRM Champion是一款聚合13大全球社交平台的一站式私域营销管�
 
 SCRM：    客户画像、客户标签、客户跟进记录、客户活跃度检测等
 
-支持15个平台使用： WhatsApp、Telegram、LINE、LINE Business、LINE WORKS、Zalo、Messenger、Instagram、Twitter、Google Voice、Discord、SkyPoly、Meta Business Suite
+支持13个平台使用： WhatsApp、Telegram、LINE、LINE Business、LINE WORKS、Zalo、Messenger、Instagram、Twitter、Google Voice、Discord、SkyPoly、Meta Business Suite
 
 <figure><img src=".gitbook/assets/image (17).png" alt="桌面端登录窗口，支持激活码、子账号登录"><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ SCRM：    客户画像、客户标签、客户跟进记录、客户活跃度检
 
 账号多开+流量结算+语言翻译
 
-* 支持如WhatsApp、Telegram、LINE等15款主流社交媒体平台，安全多开
+* 支持如WhatsApp、Telegram、LINE等13款主流社交媒体平台，安全多开
 * 保障流量交易公平性，提供分流链接、数据报表分享、粉丝去重功能，让双方流量交易更透明
 * 全球200+语言无障碍沟通，文本、图片、语音都可以精准翻译
 * 提供Deepseek、ChatGPT-4o等AI翻译线路，另有Google、Deepl等十几条翻译线路
