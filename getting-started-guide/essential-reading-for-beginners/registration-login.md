@@ -10,13 +10,13 @@
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt="SCRM Champion 登录页面"><figcaption><p>SCRM Champion主管后台登录页</p></figcaption></figure>
 
-3️⃣支持BitSky扫码注册登录与手动邮箱注册（[点击查看邮箱注册支持列表](../../qa-wen-ti-ku/zhu-guan-duan-fq/zhu-guan-zhang-hao.md#id-1.-zhang-hao-zhu-ce-zhi-chi-na-xie-you-xiang)），若未收到邮箱验证码，请查看邮箱的【垃圾邮件】处
+3️⃣支持BitSky扫码注册登录与手动邮箱注册（[点击查看邮箱注册支持列表](../../q-a-knowledge-base/admin-platform-faq/zhu-guan-zhang-hao.md#id-1.-zhang-hao-zhu-ce-zhi-chi-na-xie-you-xiang)），若未收到邮箱验证码，请查看邮箱的【垃圾邮件】处
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt="SCRM Champion注册页面"><figcaption><p>SCRM Champion主管后台注册页</p></figcaption></figure>
 
 ## 主管账号登录
 
-1️⃣登录主管账号，联系客服获取[授权码](../../liao-jie-geng-duo/ming-ci-jie-shi.md#shou-quan-ma)体验专业版3天3端口，[点击此处联系客服](https://scrmchampion.com/contact)
+1️⃣登录主管账号，联系客服获取[授权码](../../learn-more/glossary-of-terms.md#shou-quan-ma)体验专业版3天3端口，[点击此处联系客服](https://scrmchampion.com/contact)
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt="SCRM Champion 授权码获取"><figcaption><p>SCRM Champion 获取授权码</p></figcaption></figure>
 

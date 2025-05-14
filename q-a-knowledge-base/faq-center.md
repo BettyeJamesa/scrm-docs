@@ -104,7 +104,7 @@
 
 <summary>代理IP用什么协议好？</summary>
 
-<mark style="color:green;">问题回复</mark>：推荐使用SOCKS5协议，好用安全，具体介绍可以参考 [dai-li-she-zhi.md](zhuo-mian-duan-fq/dai-li-she-zhi.md "mention")
+<mark style="color:green;">问题回复</mark>：推荐使用SOCKS5协议，好用安全，具体介绍可以参考 [dai-li-she-zhi.md](desktop-client-faq/dai-li-she-zhi.md "mention")
 
 </details>
 

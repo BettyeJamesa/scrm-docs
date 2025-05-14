@@ -4,13 +4,13 @@
 
 {% tabs %}
 {% tab title="Windows Download " %}
-支持Windows 7及以上版本，出现安装问题请参考 [Windows版本安装说明](../../qa-wen-ti-ku/zhuo-mian-duan-fq/zhuo-mian-duan-an-zhuang-shuo-ming.md#windows-ban-ben-an-zhuang-shuo-ming)
+支持Windows 7及以上版本，出现安装问题请参考 [Windows版本安装说明](../../q-a-knowledge-base/desktop-client-faq/zhuo-mian-duan-an-zhuang-shuo-ming.md#windows-ban-ben-an-zhuang-shuo-ming)
 
 [点击这里 下载Windows客户端](https://admin.scrmchampion.com/client-download)
 {% endtab %}
 
 {% tab title="MacOS Download " %}
-MacOS系统默认无法打开未验证的开发者应用。出现此问题请参考 [MacOS版本安装说明](../../qa-wen-ti-ku/zhuo-mian-duan-fq/zhuo-mian-duan-an-zhuang-shuo-ming.md#macos-an-zhuang-shuo-ming)
+MacOS系统默认无法打开未验证的开发者应用。出现此问题请参考 [MacOS版本安装说明](../../q-a-knowledge-base/desktop-client-faq/zhuo-mian-duan-an-zhuang-shuo-ming.md#macos-an-zhuang-shuo-ming)
 
 [点击这里 下载MacOS客户端](https://admin.scrmchampion.com/client-download)
 {% endtab %}
