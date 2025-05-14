@@ -4,7 +4,9 @@ description: 引流打粉就找SCRM Champion，007TG（原007）唯一官方指�
 
 # SCRM Champion帮助文档
 
-关键词：社媒营销、群组营销、流量计数器
+{% embed url="https://www.youtube.com/watch?v=SN27QJJvtkM" %}
+SCRM Champion产品介绍
+{% endembed %}
 
 {% hint style="success" %}
 最新活动，优惠福利，请关注TG官方频道 [@SCRMchampion](https://007tg.com/ccs/champion_oth)
