@@ -7,7 +7,7 @@
 * [新手必读](getting-started-guide/essential-reading-for-beginners/README.md)
   * [⏬ 下载安装](getting-started-guide/essential-reading-for-beginners/download-installation.md)
   * [💻 注册登录](getting-started-guide/essential-reading-for-beginners/registration-login.md)
-* [快速入门图文教程](https://bettyes-organization.gitbook.io/quick-start-guide/)
+* [图文教程](https://bettyes-organization.gitbook.io/quick-start-guide/)
 
 ## QA问题库 <a href="#q-a-knowledge-base" id="q-a-knowledge-base"></a>
 
