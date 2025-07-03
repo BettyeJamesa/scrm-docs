@@ -10,7 +10,7 @@
 
 <details>
 
-<summary>进粉时账号下线，那剩余末计算粉丝还会统计吗？</summary>
+<summary>进粉时账号下线，那剩余未计算粉丝还会统计吗？</summary>
 
 <mark style="color:green;">问题回复</mark>：会，如进粉时账号下线，再次上线可查看补录粉丝数量，建议进粉时保持在线状态。
 
