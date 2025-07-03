@@ -13,11 +13,11 @@
 说明：从 scrmchampion 后台将机器人拉入自己的群后在群内输入@scrm 关键词唤醒机器\
 人（注意前后不要有空格）。
 
-<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 唤醒机器人后会弹出菜单
 
-<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@
 
 1.2.1.1 点击打开小程序
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,12 +36,12 @@
 点击 START 关注机器人，后续私聊消息会通过该机器人发送、如果后续机器人变更需\
 要重新关注新机器人否则私聊消息将无法推送给您。
 
-<figure><img src="../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 后续打开小程序可直接登录点击 左边的快捷菜单【SCRM ChampionApp】快速进入\
 小程序。
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,20 +49,20 @@
 
 1、点击下方两个入口按钮都可以进入小程序
 
-<figure><img src="../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 2、进入小程序后您可以自由切换小程序语种
 
-<figure><img src="../../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 3、绑定您的以太坊钱包
 
-<div><figure><img src="../../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 安装 MetaMask 【https://metamask.io/download】；以下是使用谷歌浏览器从 metamask\
 （小狐狸）钱包扩展；复制你的以太坊钱包地址填入。
 
-<figure><img src="../../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
 填入安全码：安全码一共 8 个字符需要包含英文大小和数字；后续会在发送红包中作\
 为安全校验密码使用。
@@ -70,7 +70,7 @@
 填入邮箱：填写您的邮箱；后续会在发送红包中为您发送邮件验证码。最后点击绑定钱\
 包按钮完成钱包绑定。
 
-<figure><img src="../../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 二、小程序内发送或领取红包
 

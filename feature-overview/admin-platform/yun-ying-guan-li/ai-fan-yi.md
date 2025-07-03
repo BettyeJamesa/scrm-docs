@@ -18,20 +18,20 @@ Open AI密钥创建流程
 
 2、点击 your profile
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击user api keys
 
 4、点击 Create new secret key
 
-<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5、按需设置规则
 
 6、Create secret key 完成创建
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7、点击 Copy复制即可
 
-<figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>

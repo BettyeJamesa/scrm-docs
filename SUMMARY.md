@@ -41,7 +41,7 @@
     * [Web3管理](feature-overview/admin-platform/she-qun-guan-li/web3-guan-li.md)
   * [运营管理](feature-overview/admin-platform/yun-ying-guan-li/README.md)
     * [AI翻译](feature-overview/admin-platform/yun-ying-guan-li/ai-fan-yi.md)
-    * [AI客服使用教程](feature-overview/admin-platform/yun-ying-guan-li/ai-ke-fu-shi-yong-jiao-cheng.md)
+    * [AI客服](feature-overview/admin-platform/yun-ying-guan-li/ai-ke-fu.md)
   * [考勤管理](feature-overview/admin-platform/kao-qin-guan-li.md)
   * [组织管理](feature-overview/admin-platform/zu-zhi-guan-li.md)
   * [内控管理](feature-overview/admin-platform/nei-kong-guan-li.md)
