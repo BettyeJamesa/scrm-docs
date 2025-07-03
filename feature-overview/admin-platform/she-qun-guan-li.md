@@ -22,7 +22,7 @@
 
 ## 群营销功能
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption><p>一键进群</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>一键进群</p></figcaption></figure>
 
 ✅群欢迎语：先设置群的托管号，在成员进群时，托管号将自动发送最新启用的欢迎语，支持文字、图片形式
 
