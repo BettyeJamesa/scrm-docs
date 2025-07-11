@@ -9,11 +9,11 @@ SCRM Champion产品介绍
 {% endembed %}
 
 {% hint style="success" %}
-最新活动，优惠福利，请关注TG官方频道 [@SCRMchampion](https://007tg.com/ccs/champion_oth)
+最新活动，优惠福利，请关注TG官方频道 [@SCRMchampion](https://t.me/SCRMchampion)
 {% endhint %}
 
 {% hint style="success" %}
-产品咨询，功能演示，请联系客服  TG客服：[@U007TGbot](https://007tg.com/ccs/champion_oth)  WA客服：[+60 1156702815](https://api.whatsapp.com/send/?phone=601156702815\&text=%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2SCRM+Champion%E4%BA%A7%E5%93%81\&type=phone_number\&app_absent=0)
+产品咨询，功能演示，请联系客服  TG客服：[@U007TGbot](https://007tg.com/ccs/champion_oth)  WA客服：[+60 11-2056 4337](https://007tg.com/ccs/champion_evtwa)
 {% endhint %}
 
 ## 简介

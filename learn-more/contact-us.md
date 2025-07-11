@@ -23,7 +23,7 @@ SCRM Champion系统由于一些国家的网络复杂政策，将针对部分不�
 {% endhint %}
 
 {% hint style="success" %}
-官方客服( WhatsApp)：[点击联系客服](https://api.whatsapp.com/send/?phone=601156702815\&text=%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2SCRM+Champion%E4%BA%A7%E5%93%81\&type=phone_number\&app_absent=0)
+官方客服( WhatsApp)：[点击联系客服](https://007tg.com/ccs/champion_evtwa)
 {% endhint %}
 
 {% hint style="success" %}
