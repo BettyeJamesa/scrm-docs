@@ -20,7 +20,7 @@
 
 <summary>计数器的计数规则</summary>
 
-![](../.gitbook/assets/ad8bf4ae5e25b5db993506d0f9d348ee.png)
+<figure><img src="../.gitbook/assets/计数规则.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
