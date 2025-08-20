@@ -60,6 +60,6 @@
 
 \#️⃣入库 一般用于表示【账号入库】，例如：将账号上传到系统中存放，这一过程就是“入库”
 
-## 各平台统计规则
+## 各平台统计规则（计数规则）
 
-<figure><img src="../.gitbook/assets/ad8bf4ae5e25b5db993506d0f9d348ee.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1c39621a0c9e238911da2d112e22a06f.png" alt=""><figcaption></figcaption></figure>
