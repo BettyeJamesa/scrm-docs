@@ -88,7 +88,7 @@
 
 <summary>一台电脑可以登录多少桌面端？</summary>
 
-<mark style="color:green;">问题回复</mark>：能多开五个桌面端，可以分别做不同的营销打粉接粉任务。
+<mark style="color:green;">问题回复</mark>：能多开10个桌面端，可以分别做不同的营销打粉接粉任务。
 
 </details>
 
